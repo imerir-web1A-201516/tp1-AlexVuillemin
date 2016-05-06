@@ -1,1 +1,3 @@
-# web1a-201604-tp1
+# Web 1A / TP1
+
+Please refer to the lab slides for instructions.
